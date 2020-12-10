@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Base
-url: "https://orange-ape.cloudvent.net/"
+title: Knowledge Base
+url: "https://skb.github.io/"
 baseurl:
 google_analytics_key:
 disqus_shortname:
