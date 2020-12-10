@@ -1,7 +1,7 @@
 ---
 date: 2020-12-09 12:36:51
 title: Order hasn't arrived
-categories:
+categories: Templates
 description:
 type: Document
 ---
