@@ -1,0 +1,22 @@
+---
+faq:
+  - question: What to do if customer has wrong post number?
+    answer: Change the correct post number in Shopify to customer profile and contact Jady in whatsapp, if its still possible to change it for the order. 
+  - question:
+    answer:
+---
+
+<h1>FAQ</h1>
+
+<section class="faq">
+	<ul>
+		{% for item in page.faq %}
+			<li><a href="#{{ item.question | slugify }}">{{ item.question }}</a></li>
+		{% endfor %}
+	</ul>
+
+	{% for item in page.faq %}
+		<h2 id="{{ item.question | slugify}}">{{ item.question }}<a class="header-link" href="#{{ item.question | slugify }}">#</a></h2>
+		{{ item.answer | markdownify }}
+	{% endfor %}
+</section>
