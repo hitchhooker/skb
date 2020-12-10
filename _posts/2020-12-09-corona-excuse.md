@@ -1,10 +1,12 @@
 ---
 date:
-title:Order late - Corona excuse
+title:
 categories:
 description:
 type: Document
 ---
+#Order late due to Covid
+
 Kära ,
 
 På grund av coronaviruset har det skett en försening.
