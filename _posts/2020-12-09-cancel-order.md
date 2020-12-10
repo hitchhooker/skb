@@ -13,6 +13,5 @@ Tyvärr kan vi inte avbryta beställningar som redan är på väg (det registrer
 
 Med vänliga hälsningar, 
 
- 
 Sensalve
 
