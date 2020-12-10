@@ -2,7 +2,7 @@
 date:
 title: Cancel an Order
 categories:
-description:Template
+description:
 type: Document
 ---
 Kära , 

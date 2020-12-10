@@ -1,7 +1,7 @@
 ---
 date:
 title:Order late - Corona excuse
-categories:Template
+categories:
 description:
 type: Document
 ---

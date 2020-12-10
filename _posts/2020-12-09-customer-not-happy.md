@@ -1,7 +1,7 @@
 ---
 date:
 title:Customer not happy with the service
-categories:Template
+categories:
 description:
 type: Document
 ---
