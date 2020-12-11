@@ -1,6 +1,6 @@
 ---
 date: 2020-12-09 12:36:51
-title: Order late - Corona excuse
+title: Order late due to Covid
 categories: Templates
 description:
 type: Document
